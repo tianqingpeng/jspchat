@@ -1,0 +1,4 @@
+基于jsp + mysql的私聊小程序
+前端使用bootstrap框架
+后台使用的jsp语言
+数据库使用的是mysql
